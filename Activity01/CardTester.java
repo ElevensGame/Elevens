@@ -32,7 +32,7 @@ public class CardTester
 
     public void cardThree()
     {
-        Card card3 = new Card("Ace", "Spades", 1);
+        Card card3 = new Card("King", "Spades", 13);
 
         System.out.println(" Test Suit: " + card3.suit());
         System.out.println(" Test Rank: " + card3.rank());
