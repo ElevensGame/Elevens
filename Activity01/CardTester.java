@@ -10,7 +10,7 @@ public class CardTester
 {
     private String[] ranks = {"Jack", "Queen", "King", "Ten", "Nine", "Eight", "Seven", "Six", "Five", "Four", "Three", "Two", "Ace"};
     private String[] suits = {"Hearts", "Diamonds", "Clubs", "Spades"};
-    private int[] pointValues = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 , 12, 13};
+    private int[] pointValues = {11, 12, 13, 10, 9, 8, 7, 6, 5, 4, 3, 2, 13};
 
     public void cardOne()
     {
